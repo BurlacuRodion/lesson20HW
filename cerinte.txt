@@ -1,0 +1,9 @@
+
+List de exercitii de recapitulare:   
+•	repo: https://github.com/Iulik1989/lesson20
+•	creati o functie care va numara de la n la 0 in consola unde n este argumentul primit folosin recursie.
+•	scrieti o functie care primeste un string si intoarce numarul de vocale din el.
+•	scrieti o functie care primeste o lista de stringuri si v intoarce cel mai lung string.
+•	adaugati un element in html dupa care gasitil in fisierul js folosind, getElementById, getElementsByClassName, querySelector si querySelectorAll.
+•	adaugati inauntru lui un text.
+•	adaugati inauntru lui un select cu cateva optiuni.
