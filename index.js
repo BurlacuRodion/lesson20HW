@@ -19,9 +19,25 @@ function numarVocale (str) {
 console.log('numar vocale:',numarVocale('qwe'))
 //----------------------------------------------------//
 
-function returnString() {
-    
+function returnLongestWord(arr) {
+   return arr.reduce((longest,currentWord)=>currentWord.length > longest.length ? currentWord : longest)
 }
+
+console.log(returnLongestWord(['1','123','12','122345566677']))
+
+//----------------------------------------------------//
+
+//var el = document.getElementsByClassName('element')[0];
+//var el = document.getElementById('element');
+//var el = document.querySelector('.element');
+var el = document.querySelectorAll('.element')[0];
+el.addEventListener('click',()=>{
+   alert('div')
+})
+
+
+
+
 
 
 
