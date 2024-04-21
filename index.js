@@ -32,7 +32,7 @@ console.log(returnLongestWord(['1','123','12','122345566677']))
 //var el = document.querySelector('.element');
 var el = document.querySelectorAll('.element')[0];
 el.addEventListener('click',()=>{
-   alert('div')
+   el.style.backgroundColor='green';
 })
 
 
